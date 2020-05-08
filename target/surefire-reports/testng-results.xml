@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28" started-at="2020-04-15T01:38:46 CDT" finished-at="2020-04-15T01:38:46 CDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28" started-at="2020-04-15T01:38:46 CDT" finished-at="2020-04-15T01:38:46 CDT">
+      <class name="tahatest.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:tahatest.AppiumTest@71423665]" name="IOSApps" duration-ms="3" started-at="2020-04-15T01:38:46 CDT" finished-at="2020-04-15T01:38:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:tahatest.AppiumTest@71423665]" name="NativeAppAndroid" duration-ms="0" started-at="2020-04-15T01:38:46 CDT" finished-at="2020-04-15T01:38:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- tahatest.AppiumTest -->
+      <class name="tahatest.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:tahatest.SeleniumTest@6fc6f14e]" name="BrowserAutomation" duration-ms="0" started-at="2020-04-15T01:38:46 CDT" finished-at="2020-04-15T01:38:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:tahatest.SeleniumTest@6fc6f14e]" name="elementsUi" duration-ms="0" started-at="2020-04-15T01:38:46 CDT" finished-at="2020-04-15T01:38:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- tahatest.SeleniumTest -->
+      <class name="tahatest.RESTApiTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:tahatest.RESTApiTest@20398b7c]" name="deleteTwitter" duration-ms="1" started-at="2020-04-15T01:38:46 CDT" finished-at="2020-04-15T01:38:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:tahatest.RESTApiTest@20398b7c]" name="postJira" duration-ms="0" started-at="2020-04-15T01:38:46 CDT" finished-at="2020-04-15T01:38:46 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- tahatest.RESTApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
